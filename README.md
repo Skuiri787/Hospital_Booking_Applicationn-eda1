@@ -147,6 +147,6 @@ Data cleaning & preparation included:
 
 ---
 
-### 👤 Prepared By
+### 📽️ Project Overview
 
-**Shubham Prasad Kuiri** — Data Analyst
+![Project Preview](hba_overview.png)
